@@ -22,5 +22,62 @@
 
 // Import partials:
 
-// Custom styles:
+// Custom styles
+.nav-item:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+.nav-item:active{
+  color: blue;
+}
+
+.container{
+  background-image: url(img/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  margin-bottom: 20px;
+  position: center;
+
+}
+
+.mx-auto{
+  font-family: 'Pirata One', sans-serif;
+  text-align: center;
+  color: white;
+} h1{
+  font-size: 70px;
+} .subheading{
+  font-size: 30px;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(0, 193, 129);
+  padding: 10px;
+}
+
+.section-title{
+  margin-bottom: 3px;
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.card-text{
+  font-size: 20px;
+}
+
+
+.carousel{
+  margin-left: 15%;
+  margin-right: 15%;
+
+}
+
+
+
+
+
+
+
+
 
