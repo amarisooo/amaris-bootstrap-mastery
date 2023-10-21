@@ -1,5 +1,9 @@
 # ICJ Bootstrap Template
 
+This is a class project by AMARIS OVALLE
+
+This project is due Oct. 20, 2023
+
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
 It uses Bootstrap 5 and a Gulp setup to support a development environment with Sass and image management.
